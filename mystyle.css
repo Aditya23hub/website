@@ -1,0 +1,44 @@
+.cl1{
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+i{
+    cursor: pointer;
+    
+}
+#id1 :hover
+{
+ color:red; 
+ font-size: 25px;  
+}
+#id1 i
+{
+    margin: 10px;
+}
+#id2
+{
+    color: rgb(246, 105, 5);
+}
+#id3
+{
+    background-color: rgb(198, 183, 139); 
+   /* padding: 10px 50px 70px 80px;*/
+   /*padding-top: 30px;*/
+   padding: 20px;
+   /*margin: 20px;*/
+   margin-top: 50px;
+  /* border: 3px solid red;*/
+  border-style:solid;
+  border-color: rgb(244, 7, 7);
+  border-width: 4px;
+ box-shadow: 6px 5px 3px,5px 6px 8px rgb(14, 41, 139);
+
+
+
+}
+img:hover
+{
+    border: 3px solid red;
+ 
+}
